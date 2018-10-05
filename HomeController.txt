@@ -4,3 +4,8 @@ Public actionresult Index()
 {
 Return view();
 }
+
+Public actionresult Catalog()
+{
+Return view();
+}
